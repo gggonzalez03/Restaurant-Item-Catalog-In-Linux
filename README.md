@@ -22,6 +22,7 @@ Configurations:
     Set linux system timezone to UTC
     Blocked linux root login using /etc/ssh/sshd_config
     Disallowed database remote connections
+    Changed .git folder permissions
 Third-party resources:
     Deploy Flask Application with mod_wsgi:
         https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
